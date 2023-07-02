@@ -1,16 +1,16 @@
-# analog_clock
+# Analog Clock Flutter App
 
-A new Flutter project.
+This is a simple Flutter application that displays an analog clock with light and dark modes. The clock UI has been designed to be visually appealing and user-friendly.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Analog clock with hour, minute, and second hands.
+- Light mode and dark mode support.
+- Responsive UI that adapts to different screen sizes.
+- Smooth animation for clock hands movement.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Light Mode]([screenshots/light_mode.png](https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-53-57.jpg))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dark Mode]([screenshots/dark_mode.png](https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-54-19.jpg))
