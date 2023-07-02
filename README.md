@@ -11,6 +11,7 @@ This is a simple Flutter application that displays an analog clock with light an
 
 ## Screenshots
 
-![Light Mode]([screenshots/light_mode.png](https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-53-57.jpg))
-
-![Dark Mode]([screenshots/dark_mode.png](https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-54-19.jpg))
+<p align="center">
+  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-53-57.jpg" alt="App Screenshot" width="250" />
+  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-54-19.jpg" alt="App Screenshot" width="250" />
+</p>
