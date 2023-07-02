@@ -1,5 +1,9 @@
 # Analog Clock Flutter App
 
+<p align="center">
+  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/1599.png" alt="App Screenshot" width="1000" />
+</p>
+
 This is a simple Flutter application that displays an analog clock with light and dark modes. The clock UI has been designed to be visually appealing and user-friendly.
 
 ## Features
@@ -12,6 +16,6 @@ This is a simple Flutter application that displays an analog clock with light an
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-53-57.jpg" alt="App Screenshot" width="250" />
-  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-54-19.jpg" alt="App Screenshot" width="250" />
+  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-53-57.jpg" alt="Light UI Screenshot" width="250" />
+  <img src="https://github.com/NoushinTasnim/Analog-Clock/blob/main/ss/photo_2023-07-01_23-54-19.jpg" alt="Dark UI Screenshot" width="250" />
 </p>
